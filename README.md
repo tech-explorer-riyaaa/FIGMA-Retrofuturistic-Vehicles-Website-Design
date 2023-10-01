@@ -42,8 +42,7 @@ The Retrofuturistic Automobiles Homepage showcases a curated collection of vehic
 ## Submission Details
 
 - **Figma Link:** https://www.figma.com/file/En4jLQQrWmg9fVTonW4Oxq/Retrofuturistic?type=design&node-id=0%3A1&mode=design&t=8L6RFP8FSjOgP6Cy-1
-- **Prototype Video:** [Provide a link to the video showcasing the complete working of the design]
-
+- **Prototype Video:** https://youtu.be/b7Y6mOM6tvs
 ## Additional Notes
 
 This homepage design was created entirely from scratch, adhering to the competition guidelines. No sample designs provided in the competition brief were used in the creation of this project. The design aims to not only meet but exceed the competition criteria, providing an innovative and captivating exploration of the retrofuturistic theme within the realm of automobiles.
