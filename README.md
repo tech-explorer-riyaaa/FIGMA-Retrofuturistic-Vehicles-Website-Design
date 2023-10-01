@@ -66,6 +66,7 @@ The Retrofuturistic Automobiles Website showcases a curated collection of vehicl
 ## Submission Details
 
 - **Figma Link:** https://www.figma.com/file/En4jLQQrWmg9fVTonW4Oxq/Retrofuturistic?type=design&node-id=0%3A1&mode=design&t=8L6RFP8FSjOgP6Cy-1
+- **Prototype Link:** https://www.figma.com/proto/En4jLQQrWmg9fVTonW4Oxq/Retrofuturistic?node-id=204-6&starting-point-node-id=204%3A6&mode=design&t=HLE8qGiK5sQ8guUv-1
 - **Prototype Video:** https://youtu.be/b7Y6mOM6tvs
   
 ## Additional Notes
