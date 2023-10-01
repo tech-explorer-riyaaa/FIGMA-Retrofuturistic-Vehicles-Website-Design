@@ -47,14 +47,14 @@ Certainly! Based on the problem statement provided and the description of Royale
 ## How to Run
 
 1. Open the Figma link given in the "Submission links" section below, then click on the play option to interact with the prototype.
-2. Also, you can directly open the "Prototype link", it'll open the interactive website immediately.
-3. For a detailed walkthrough, watch our .[RoyaleRealm Demo video on YouTube]( https://youtu.be/-7Eq0mQDldM). It demonstrates the full functionality and features of RoyaleRealm website.
+2. Instead you can also open the "Prototype Demo" link, it'll open the interactive website design directly.
+3. For a detailed walkthrough, watch our [RoyaleRealm Demo video on YouTube]( https://youtu.be/-7Eq0mQDldM). It demonstrates the full functionality and features of RoyaleRealm website.
 
 ## Submission Links
 
 - [Figma Design](https://www.figma.com/file/En4jLQQrWmg9fVTonW4Oxq/Retrofuturistic?type=design&node-id=0%3A1&mode=design&t=8L6RFP8FSjOgP6Cy-1): Dive into the design process and see the thought behind RetroVisions.
 - [Prototype Demo](https://www.figma.com/proto/En4jLQQrWmg9fVTonW4Oxq/Retrofuturistic?type=design&node-id=204-6&t=3MddyalwP2jFlIoG-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=204%3A6&mode=design): Experience the interactive prototype and get a feel for the user interface.
-- .[RoyaleRealm Demo Video on YouTube]( https://youtu.be/-7Eq0mQDldM): It demonstrates the full functionality and features of RoyaleRealm website.
+- [RoyaleRealm Demo Video on YouTube]( https://youtu.be/-7Eq0mQDldM): It demonstrates the full functionality and features of RoyaleRealm website.
 
 ## Additional Notes
 
