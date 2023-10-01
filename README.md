@@ -9,6 +9,8 @@ Explore the intriguing world of retrofuturistic automobiles through this visuall
 ## Design Concept
 
 The Retrofuturistic Automobiles Website showcases a curated collection of vehicles, combining retro aesthetics with futuristic elements. From interactive navigation to dynamic animations, this design aims to provide a seamless and engaging user experience.
+<img width="322" alt="image" src="https://github.com/tech-explorer-riyaaa/INNERVE-FIGMA/assets/122520061/eeb667d3-a1e9-4b48-bf52-2e042dc9cc52">
+
 
 ### Key Features:
 
@@ -66,8 +68,8 @@ The Retrofuturistic Automobiles Website showcases a curated collection of vehicl
 ## Submission Details
 
 - **Figma Link:** https://www.figma.com/file/En4jLQQrWmg9fVTonW4Oxq/Retrofuturistic?type=design&node-id=0%3A1&mode=design&t=8L6RFP8FSjOgP6Cy-1
-- **Prototype Link:** https://www.figma.com/proto/En4jLQQrWmg9fVTonW4Oxq/Retrofuturistic?node-id=204-6&starting-point-node-id=204%3A6&mode=design&t=HLE8qGiK5sQ8guUv-1
-- **Prototype Video:** https://youtu.be/b7Y6mOM6tvs
+- **Prototype Link:** https://www.figma.com/proto/En4jLQQrWmg9fVTonW4Oxq/Retrofuturistic?type=design&node-id=204-6&t=3MddyalwP2jFlIoG-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=204%3A6&mode=design
+- **Prototype Video:** https://youtu.be/-7Eq0mQDldM
   
 ## Additional Notes
 
