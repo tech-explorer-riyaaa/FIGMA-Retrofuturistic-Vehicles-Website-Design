@@ -1,14 +1,14 @@
 # Retrofuturistic Automobiles Website
 
-Welcome to the Retrofuturistic Automobiles Homepage, a captivating user interface designed for the ISOC'23 UI/UX Track competition. This project seamlessly merges the themes of 'Retrofuturism' to create an immersive digital experience centered around vintage-inspired vehicles reimagined with futuristic elements.
+Welcome to the Retrofuturistic Automobiles Website, a captivating user interface designed for the ISOC'23 UI/UX Track competition. This project seamlessly merges the themes of 'Retrofuturism' to create an immersive digital experience centered around vintage-inspired vehicles reimagined with futuristic elements.
 
 ## Project Overview
 
-Explore the intriguing world of retrofuturistic automobiles through this visually stunning homepage. Drawing inspiration from the transition between retro and futuristic designs, this interface immerses visitors in the nostalgia of the past while embracing the promise of future technologies.
+Explore the intriguing world of retrofuturistic automobiles through this visually stunning website design. Drawing inspiration from the transition between retro and futuristic designs, this interface immerses visitors in the nostalgia of the past while embracing the promise of future technologies.
 
 ## Design Concept
 
-The Retrofuturistic Automobiles Homepage showcases a curated collection of vehicles, combining retro aesthetics with futuristic elements. From interactive navigation to dynamic animations, this design aims to provide a seamless and engaging user experience.
+The Retrofuturistic Automobiles Website showcases a curated collection of vehicles, combining retro aesthetics with futuristic elements. From interactive navigation to dynamic animations, this design aims to provide a seamless and engaging user experience.
 
 ### Key Features:
 
@@ -67,6 +67,7 @@ The Retrofuturistic Automobiles Homepage showcases a curated collection of vehic
 
 - **Figma Link:** https://www.figma.com/file/En4jLQQrWmg9fVTonW4Oxq/Retrofuturistic?type=design&node-id=0%3A1&mode=design&t=8L6RFP8FSjOgP6Cy-1
 - **Prototype Video:** https://youtu.be/b7Y6mOM6tvs
+  
 ## Additional Notes
 
 This website design was created entirely from scratch, adhering to the competition guidelines. No sample designs provided in the competition brief were used in the creation of this project. The design aims to not only meet but exceed the competition criteria, providing an innovative and captivating exploration of the retrofuturistic theme within the realm of automobiles.
